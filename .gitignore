@@ -10,13 +10,6 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data (raw and processed — add manually or via DVC)
-data/raw/
-data/processed/
-
-# Output figures
-plots/
-
 # OS
 .DS_Store
 Thumbs.db
