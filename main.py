@@ -162,7 +162,12 @@ iso_best["G_0"] = iso_best["Gmag"]
 
 plt.figure(figsize=(6, 6))
 plt.scatter(
-    bp_rp_0[mask], g_0[mask], s=2, color="blue", alpha=0.5, label="47 Tuc (dereddened)"
+    bp_rp_0[mask],
+    g_0[mask] - DISTANCE_MODULUS,
+    s=2,
+    color="blue",
+    alpha=0.5,
+    label="47 Tuc (dereddened)",
 )
 plt.scatter(
     iso_best["BP_RP_0"],
