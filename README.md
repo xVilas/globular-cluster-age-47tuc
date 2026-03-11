@@ -157,7 +157,7 @@ PARSEC isochrones retrieved via [ezpadova](https://github.com/mfouesneau/ezpadov
 
 ## Acknowledgements
 
-This project is based on coursework from the *Extragalactic Astrophysics* module of the MSc in Astrophysics at the Universidad de La Laguna, taught by Prof. Jairo Méndez Abreu. Special thanks to him for the guidance and inspiration.
+This project is based on coursework from the *Extragalactic Astrophysics* module of the MSc in Astrophysics at the Universidad de La Laguna, taught by Dr. Jairo Méndez Abreu. Special thanks to him for the guidance and inspiration.
 
 ---
 
